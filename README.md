@@ -32,7 +32,6 @@ Problem in a sentence
 
 ## What is being covered
 
-* Time to take what we've learned in the NLP fundmentals notebook and build our biggest NLP model yet:
 * Downloading a text dataset (PubMed RCT200k from GitHub)
 * Writing a preprocessing function to prepare our data for modelling
 * Setting up a series of modelling experiments
